@@ -4,7 +4,7 @@ News Sentiment Analysis is a tool to scrape and analyse the sentiment of financi
 Sentiment analysis is done using Google's Cloud Natural Language API.
 
 ## Initialisation
-1) Ensure all five modules are present in the same directory:
+1) Ensure all five modules are present in the same directory:  
     main.py  
     Ui.py  
     Data.py  
