@@ -1,0 +1,4 @@
+google-cloud-language == 2.0.0
+pandas == 1.1.5
+newspaper3k == 0.2.8
+pysimplegui == 4.32.1
