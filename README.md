@@ -5,11 +5,11 @@ Sentiment analysis is done using Google's Cloud Natural Language API.
 
 ## Initialisation
 1) Ensure all five modules are present in the same directory:
-    main.py
-    Ui.py
-    Data.py
-    Parse.py
-    Analysis.py
+    main.py  
+    Ui.py  
+    Data.py  
+    Parse.py  
+    Analysis.py  
 
 2) If articles have been pre-downloaded, ensure that articles.csv is also present in the same directory. Else, articles can be downloaded with Data.py module.
 
