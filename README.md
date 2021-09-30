@@ -40,4 +40,4 @@ analysis.show_analysis()
 ```
 
 ## Known Issues
-The use of PyAutoGUI as the GUI manager breaks abstraction between the Ui.py module and main module, making the code messy.
+The use of PySimpleGUI as the GUI manager breaks abstraction between the Ui.py module and main module, making the code messy.
